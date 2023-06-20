@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">MADS06 Weather App</string>
+    <string name="app_name">NSSF Weather</string>
+    <string name="nssf_weather">NSSF Weather</string>
+    <string name="location">Location</string>
+    <string name="last_updated_on">Last Updated On:</string>
 </resources>

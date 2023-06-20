@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.MADS06WeatherApp" parent="Base.Theme.MADS06WeatherApp" />
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
 </resources>
